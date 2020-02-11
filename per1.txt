@@ -6,8 +6,8 @@
 <body>
 
 		<b1 style="color: red">hey</b1><br>
-		<b2 style="color:gray">hey</b2><br>
-		<b3>hey</b3><br>
+		<b2 style="color: green">hey</b2><br>
+		<b3 style="color: gray">hey</b3><br>
 		<p>NAMA SAYA</p>
 		<p> Dimas</p>
 
